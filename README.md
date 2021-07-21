@@ -6,7 +6,7 @@
 [![](https://img.shields.io/github/followers/valdeniomarinho?style=social)](#)
 
 -----
-> 📖 ABOUT
+> 📖 About
 
 I'm a Full Stack Web Developer, continuously improving my skills and always learning the new and trending innovations of web. In my opinion, every Web Developer must work with passion, that's why **_✨I do what I love, and I love what I do!✨_**  
 
@@ -18,7 +18,7 @@ I'm a Full Stack Web Developer, continuously improving my skills and always lear
 
 -----
 
-> 📚 SKILLS  
+> 📚 Skills  
 
 [![](https://img.shields.io/badge/%B7-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&logoWidth=20)](#)
 [![](https://img.shields.io/badge/%B7-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&logoWidth=20)](#)
@@ -48,7 +48,7 @@ I'm a Full Stack Web Developer, continuously improving my skills and always lear
 [![](https://img.shields.io/badge/%B7-Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge&logoWidth=20)](#)
 
 -----
-> ⚙️ TOOLS  
+> ⚙️ Tools  
 
 [![](https://img.shields.io/badge/%B7-VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge&logoWidth=20)](#)
 [![](https://img.shields.io/badge/%B7-Insomnia-5849BE?logo=insomnia&logoColor=white&style=for-the-badge&logoWidth=20)](#)
