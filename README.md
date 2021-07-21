@@ -11,6 +11,12 @@
 I'm a Full Stack Web Developer, continuously improving my skills and always learning the new and trending innovations of web. In my opinion, every Web Developer must work with passion, that's why **_✨I do what I love, and I love what I do!✨_**  
 
 -----
+> 💭 Favourite Quote
+
+*“The more I read, the more I acquire, the more certain I am that I know nothing.”*
+― **Voltaire**
+
+-----
 
 > 📚 SKILLS  
 
