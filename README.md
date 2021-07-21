@@ -39,6 +39,7 @@ I'm a Full Stack Web Developer, continuously improving my skills and always lear
 [![](https://img.shields.io/badge/%B7-GatsbyJS-663399?logo=gatsby&logoColor=white&style=for-the-badge&logoWidth=20)](#)
 [![](https://img.shields.io/badge/%B7-NextJS-000000?logo=next.js&logoColor=white&style=for-the-badge&logoWidth=20)](#)
 
+[![](https://img.shields.io/badge/%B7-JAMstack-F0047F?logo=jamstack&logoColor=white&style=for-the-badge&logoWidth=20)](#)
 [![](https://img.shields.io/badge/%B7-Strapi-2F2E8B?logo=strapi&logoColor=white&style=for-the-badge&logoWidth=20)](#)
 [![](https://img.shields.io/badge/%B7-Prismic-5163BA?logo=prismic&logoColor=white&style=for-the-badge&logoWidth=20)](#)
 
