@@ -2,8 +2,8 @@
 
 ### 💼 Full Stack Web Developer
 ![](https://img.shields.io/badge/-Valdenio%20Marinho-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valdeniomarinho/)
-![](https://komarev.com/ghpvc/?username=valdeniomarinho&label=Github+Views&style=for-the-badge&link=#)
-![](https://img.shields.io/github/followers/valdeniomarinho?style=social&link=#)
+![](https://komarev.com/ghpvc/?username=valdeniomarinho&label=Github+Views&style=for-the-badge&link=https://github.com/valdeniomarinho/#)
+![](https://img.shields.io/github/followers/valdeniomarinho?style=social&link=https://github.com/valdeniomarinho/#)
 
 -----
 > 📖 ABOUT
