@@ -1,19 +1,18 @@
 # Valdenio Marinho
 
------
+### 💼 Full Stack Web Developer
+![](https://img.shields.io/badge/-Valdenio%20Marinho-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valdeniomarinho/)
+![](https://komarev.com/ghpvc/?username=valdeniomarinho&label=Github+Views&style=for-the-badge)
+![](https://img.shields.io/github/followers/valdeniomarinho?style=social)
 
-### Full Stack Web Developer
-![](https://komarev.com/ghpvc/?username=valdeniomarinho&label=PROFILE+VIEWS&style=for-the-badge)
-![](https://img.shields.io/github/followers/valdeniomarinho?style=social)  
-
 -----
->ABOUT
+> 📖 ABOUT
 
 I'm a Full Stack Web Developer, continuously improving my skills and always learning the new and trending innovations of web. In my opinion, every Web Developer must work with passion, that's why **_✨I do what I love, and I love what I do!✨_**  
 
 -----
 
-> SKILLS  
+> 📚 SKILLS  
 
 ![](https://img.shields.io/badge/%B7-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&logoWidth=20)
 ![](https://img.shields.io/badge/%B7-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&logoWidth=20)
@@ -43,7 +42,7 @@ I'm a Full Stack Web Developer, continuously improving my skills and always lear
 ![](https://img.shields.io/badge/%B7-Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge&logoWidth=20)
 
 -----
->TOOLS  
+> ⚙️ TOOLS  
 
 ![](https://img.shields.io/badge/%B7-VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge&logoWidth=20)
 ![](https://img.shields.io/badge/%B7-Insomnia-5849BE?logo=insomnia&logoColor=white&style=for-the-badge&logoWidth=20)
@@ -54,17 +53,4 @@ I'm a Full Stack Web Developer, continuously improving my skills and always lear
 ![](https://img.shields.io/badge/%B7-Debian-A81D33?logo=debian&logoColor=white&style=for-the-badge&logoWidth=20)
 ![](https://img.shields.io/badge/%B7-Kali-557C94?logo=kalilinux&logoColor=white&style=for-the-badge&logoWidth=20)
 
-<!--
-**valdeniomarinho/valdeniomarinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
