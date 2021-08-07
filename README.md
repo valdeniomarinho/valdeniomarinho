@@ -8,7 +8,7 @@
 -----
 > 📖 About
 
-I'm a Full Stack Web Developer, continuously improving my skills and always learning the new and trending innovations of web. In my opinion, every Web Developer must work with passion, that's why **_✨I do what I love, and I love what I do!✨_**  
+I'm a Web Developer, continuously improving my skills and always learning the new and trending innovations of web. In my opinion, every Web Developer must work with passion, that's why **_✨I do what I love, and I love what I do!✨_**  
 
 -----
 > 💭 Favourite Quote
