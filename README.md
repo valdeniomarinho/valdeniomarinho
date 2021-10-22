@@ -18,6 +18,11 @@ I'm a Web Developer, I am continuously improving and sharpening my skills, and I
 ― **Voltaire**
 
 -----
+> 💭 Favourite Meme
+
+![](https://user-images.githubusercontent.com/36814117/138493406-53123bc4-9a2e-426b-ab66-227bb9719ac9.png)
+
+-----
 
 > 📚 Skills  
 
