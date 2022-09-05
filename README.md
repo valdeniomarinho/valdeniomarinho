@@ -5,24 +5,18 @@
 [![](https://komarev.com/ghpvc/?username=valdeniomarinho&label=Github+Views&style=for-the-badge)](#)
 [![](https://img.shields.io/github/followers/valdeniomarinho?style=social)](#)
 
------
-> 📖 About Me
-
-I'm a Web Developer, I am continuously improving and sharpening my skills, and I'm always trying to learn the **new trending** innovations of web. In my humble opinion, every Web Developer should work with passion.  
-**_✨I do what I love, and I love what I do!✨_**  
-
------
+---
 > 💭 Favourite Quote
 
 *“The more I read, the more I acquire, the more certain I am that I know nothing.”*
 ― **Voltaire**
 
------
+---
 > 💭 Favourite Meme
 
 ![](https://user-images.githubusercontent.com/36814117/138493406-53123bc4-9a2e-426b-ab66-227bb9719ac9.png)
 
------
+---
 
 > 📚 Skills  
 
@@ -54,7 +48,7 @@ I'm a Web Developer, I am continuously improving and sharpening my skills, and I
 [![](https://img.shields.io/badge/%B7-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge&logoWidth=20)](#)
 [![](https://img.shields.io/badge/%B7-Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge&logoWidth=20)](#)
 
------
+---
 > ⚙️ Tools  
 
 [![](https://img.shields.io/badge/%B7-VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge&logoWidth=20)](#)
